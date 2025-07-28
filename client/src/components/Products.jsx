@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { getProducts } from "../services/api";
+import { Link } from "react-router-dom";
 import "./style.css";
 
 const ProductCard = ({ product }) => {
@@ -47,7 +48,7 @@ const ProductCard = ({ product }) => {
         <div className="product-info">
           <div className="product-category">{product.category}</div>
           <h3 className="product-title">
-            <a href="#">{product.title}</a>
+            <Link to="/product">{product.title}</Link>
           </h3>
           <div className="product-price">
             ${product.price}
