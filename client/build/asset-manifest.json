@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8c03022.css",
+    "main.js": "/static/js/main.3fa4d0ee.js",
+    "static/js/453.a3c1d153.chunk.js": "/static/js/453.a3c1d153.chunk.js",
+    "static/media/lukas-bato-Vbbn4xNBfnM-unsplash.jpg": "/static/media/lukas-bato-Vbbn4xNBfnM-unsplash.490d4ae455c369c86c12.jpg",
+    "index.html": "/index.html",
+    "main.c8c03022.css.map": "/static/css/main.c8c03022.css.map",
+    "main.3fa4d0ee.js.map": "/static/js/main.3fa4d0ee.js.map",
+    "453.a3c1d153.chunk.js.map": "/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c03022.css",
+    "static/js/main.3fa4d0ee.js"
+  ]
+}
